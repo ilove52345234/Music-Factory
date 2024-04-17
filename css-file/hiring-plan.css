@@ -206,7 +206,7 @@
     clip-path: polygon(0 0, 100% 0, 75% 100%, 0 100%);
     position: absolute;
     z-index: 0;
-    background: url("/imgs/good-salary.jpg");
+    background: url("./imgs/good-salary.jpg");
     background-repeat: no-repect;
     background-size: cover;
     background-position: center center;
@@ -282,7 +282,7 @@
 .apply-table {
     width: 100%;
     height: 100vh;
-    background: url(./imgs/apply-background.png);
+    background: url("./imgs/apply-background.png");
     background-size: cover;
     background-position: center center;
 
