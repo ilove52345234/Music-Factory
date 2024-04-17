@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 
-/* Header hover特效未完成，字體問題待解決 ，定位未寫*/
+
 .header {
     width: 100%;
     height: 70px;
@@ -68,4 +68,3 @@
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
 }
 
-/* Header hover特效未完成 */
